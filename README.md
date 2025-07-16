@@ -28,7 +28,8 @@
 
 ## Submission Files
 - `LLM-Final-Assessment.ipynb` — Main code and analysis notebook
+- `LLM-Final-Assessment.py` — Main code and analysis notebook in .py format
 - `visualization/` — All plots, employee rankings, and flight risk lists
-- `Final Report.docx` — Written report (if required)
+- `Final Report.docx` — Written report 
 - `README.md` — This summary file
 
